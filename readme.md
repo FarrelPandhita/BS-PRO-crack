@@ -15,12 +15,13 @@ di dalam nano brup isikan kode di bawah:
 ```
 #!/bin/bash 
 
-cd /usr/local/bin/burpsuite 
+cd /usr/local/bin/
 java -jar loader.jar 
 ```
 kemudian save dengan "CTRL + X" lalu pencet "Y" dan enter 
 
 ```
+chmod +x burp
 burp
 ```
 
