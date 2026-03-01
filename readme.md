@@ -28,3 +28,11 @@ burp
 kemudian pencet run.
 jika anda pertama kali menginstall ini, copy string di kolom license. kemudian pada burpsuite gunakan aktivasi lisensi manual. lalu pastekan string license. setelah itu pastekan activation request dan response ke burpsuite. 
 jika sudah maka aman dan tinggal pakai
+
+
+Langsung download file setup.sh dengan clone atau direct download
+```
+
+sudo chmod +x setup.sh
+sudo ./setup.sh
+```
